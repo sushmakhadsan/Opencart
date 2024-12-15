@@ -1,0 +1,11 @@
+2024-12-04 16:46:07,126 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - ******starting TC001_AccountRegistrationTest******
+2024-12-04 16:46:07,970 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on myAccount
+2024-12-04 16:46:08,867 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - clicked o register link
+2024-12-04 16:46:08,872 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+2024-12-04 16:46:11,443 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2024-12-04 16:46:11,601 {HH:mm:ss:SSS} [main] INFO  testCases.TC001_AccountRegistrationTest - ******Finish TC001_AccountRegistrationTest******
+2024-12-04 16:50:36,653 {HH:mm:ss:SSS} [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+2024-12-04 16:51:30,443 {HH:mm:ss:SSS} [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+2024-12-04 16:52:24,163 {HH:mm:ss:SSS} [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+2024-12-04 16:57:12,636 {HH:mm:ss:SSS} [main] INFO  testCases.TC002_LoginTest - ****Starting TC002_LoginTest****
+2024-12-04 16:57:15,137 {HH:mm:ss:SSS} [main] INFO  testCases.TC002_LoginTest - ****Finished TC002_LoginTest****
